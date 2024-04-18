@@ -1,7 +1,6 @@
 
 from django.urls import path
 from . views import UsersView,LoginUser,LogoutUser,RegisterUser,UserApi,Posts
-import yaml
 
 urlpatterns = [
     path("get_users", UsersView.as_view()),
