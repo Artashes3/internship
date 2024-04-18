@@ -1,5 +1,5 @@
 # internship
-http//192.168.1.100/main/
+http//185.223.124.131/main/
 - description: 'getting all users'
   endpoint: get_users
   method: get,post,put,delete
